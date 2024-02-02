@@ -1,0 +1,5 @@
+# zsh Prompt Custom
+# add this line to bottoms of ~/.zshrc file
+
+PS1='[%F{10}%D{%a, %b %d}%f-%F{10}%T%f]-[%F{214}%n%f@%F{196}%m%f]-
+-[%F{33}%~%f]\$ '
